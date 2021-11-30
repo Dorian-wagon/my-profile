@@ -1,0 +1,86 @@
+body {
+    background-color: #d1d0d0;
+    color: hsl(0deg 0% 0%);
+    font-family: Ariel;
+}
+
+h1 {
+    font-size: 70px;
+    line-height: 1.8;
+    font-weight: bold;
+    text-decoration: none;
+
+} 
+
+h1, h2, p, ul, li, a, i {
+    text-align: center;
+}
+
+h2 {
+    color: #dd8484;
+}
+
+p {
+    font-weight: 500;
+}
+
+.text-bolder {
+    font-weight: 550;
+    font-family: Ariel;
+    margin-bottom: 40px;
+}
+
+a {
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:hover {
+    color: aliceblue;
+    text-decoration: underline;
+}
+
+img {
+    border-radius: 90%;
+    border: 10px solid black;
+    width: 550px;
+    margin: 20px 200px 40px;
+}
+
+#container {
+    padding: 30px;
+    text-align: center; (failed to center the image😢😕..)
+}
+
+#btn {
+    background: #f1ea9c;
+    padding: 10px 10px;
+    border-radius: 5px;
+    border-top: dotted #58258c;
+    border-right: dotted #58258c;
+    border-left: dotted #58258c;
+    border-bottom: dotted #58258c;
+}
+
+h3 {
+    text-transform: uppercase;
+    text-decoration: underline;
+    color: #dd8484;
+    font-weight: bolder;
+    font-size: 24px;
+    text-align: center;
+}
+
+.logo-bigger {
+    text-decoration: none;
+    font-size: 50px;
+    text-align: center;
+}
+
+div {
+    background: #f1ea9c;
+    padding: 50px;
+    margin: 80px;
+    box-shadow: 0px 10px 30px;
+    border-radius: 10px;
+}
